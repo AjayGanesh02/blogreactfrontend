@@ -10,6 +10,7 @@
     align-items: center;
 
     font-family: 'Inconsolata', monospace;
+    z-index: 999;
 }
 
 .topLeft,.topRight {
